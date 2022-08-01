@@ -1,2 +1,2 @@
 # star-field
-star field visualization
+star field visualization using processing software
